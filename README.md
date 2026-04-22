@@ -28,5 +28,5 @@ npm install
 npm start
 ```
 🌐 URLs
-Frontend:```bash http://localhost:3000  ```
-Backend:  ```bash http://localhost:8080  ```
+Frontend:``` http://localhost:3000  ```
+Backend: ``` http://localhost:8080  ```
