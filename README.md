@@ -20,14 +20,13 @@ AI-powered Code Reviewer built using Spring Boot + React.
 ### Backend
 ```bash
 mvn spring-boot:run
-
+```
 ### Frontend
-
 ```bash
 cd ai-mentor-ui
 npm install
 npm start
-
+```
 🌐 URLs
-Frontend: http://localhost:3000
-Backend: http://localhost:8080
+Frontend:```bash http://localhost:3000  ```
+Backend:  ```bash http://localhost:8080  ```
