@@ -70,9 +70,13 @@ npm start
 
 ---
 
-## 📸 Screenshots
+##
 
-(Add screenshots here — VERY IMPORTANT)
+<img width="1879" height="963" alt="Screenshot 2026-04-30 000359" src="https://github.com/user-attachments/assets/4daff412-89a6-4a6f-87d5-f7653cce3f0d" />
+
+<img width="1915" height="964" alt="image" src="https://github.com/user-attachments/assets/1693e87b-452c-4d74-a7d6-42ed8ec2835b" />
+
+<img width="1899" height="963" alt="image" src="https://github.com/user-attachments/assets/2f15f5e9-f63a-4ba7-a392-b54b123e4aba" />
 
 ---
 
